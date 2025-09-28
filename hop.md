@@ -1,7 +1,7 @@
 
 Repositório - DIO
 
-repositório para armazenar versionamentos do Bootcamp da DIO..
+repositório para armazenar versionamentos do Bootcamp da DIO...
 
 [my profile on github](https://github.com/Fyuzaz)
 
